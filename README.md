@@ -1,5 +1,5 @@
 # Resume-Builder
 
-A project to build a resume (literally). 
+A little project to build a resume (literally). Double meanings are fun.
 
-Create a reusme with different sections and formatting based on attributes given.
+Create a plaintext resume with different sections and formatting based on attributes given.
